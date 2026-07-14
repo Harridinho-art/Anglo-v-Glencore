@@ -11,7 +11,7 @@ Why compare Anglo American and Glencore? Because their financial DNA is complete
 
 This model stress-tests both structures to see how their "survival capacity" holds up when credit squeezes and margin calls hit simultaneously. 
 
-I did a similar project focusing on Anglo Aemrican's 2025 liquidity and copper scenario analysis, as a result, in the Power BI dashboard for this specific project I decided to focus on Glencore when visualizing their liquidity position, for Anglo American, you can find their liquidity forecast here - 
+I did a similar project focusing on Anglo Aemrican's 2025 liquidity and copper scenario analysis, as a result, in the Power BI dashboard for this specific project I decided to focus on Glencore when visualizing their liquidity position, but the market shock scenario applies to both, for Anglo American, you can find their liquidity forecast here - https://github.com/Harridinho-art/Anglo-13-week-liquidity-model
 
 ---
 
